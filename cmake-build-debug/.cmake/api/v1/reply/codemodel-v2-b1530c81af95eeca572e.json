@@ -6,13 +6,28 @@
 			[
 				{
 					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.21"
+						"string" : "3.10.2"
 					},
 					"projectIndex" : 0,
-					"source" : ".",
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
 					"targetIndexes" : 
 					[
 						0
@@ -25,9 +40,10 @@
 				{
 					"directoryIndexes" : 
 					[
-						0
+						0,
+						1
 					],
-					"name" : "Task2",
+					"name" : "Operation",
 					"targetIndexes" : 
 					[
 						0
@@ -37,10 +53,10 @@
 			"targets" : 
 			[
 				{
-					"directoryIndex" : 0,
-					"id" : "Task2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Task2-Debug-363a5375082f37861131.json",
-					"name" : "Task2",
+					"directoryIndex" : 1,
+					"id" : "Operation::@145eef247bfb46b6828c",
+					"jsonFile" : "target-Operation-Debug-7b14a18727260466f950.json",
+					"name" : "Operation",
 					"projectIndex" : 0
 				}
 			]

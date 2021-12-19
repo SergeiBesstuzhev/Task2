@@ -1,1 +1,8 @@
 # ninja log v5
+1	90	6616378590317131	build.ninja	53a6750947262208
+0	798	6616378597114135	src/CMakeFiles/Operation.dir/main.cpp.obj	737486feb960c747
+24	812	6616378597818878	src/CMakeFiles/Operation.dir/disk.cpp.obj	b1b4073fc6750ee6
+6	813	6616378597418428	src/CMakeFiles/Operation.dir/cpu.cpp.obj	5844bbb0f20ec88c
+12	815	6616378597114135	src/CMakeFiles/Operation.dir/ram.cpp.obj	2b36a089e81d3612
+18	827	6616378597418428	src/CMakeFiles/Operation.dir/gpu.cpp.obj	228bf7257ff53b13
+30	829	6616378597716801	src/CMakeFiles/Operation.dir/kbd.cpp.obj	5c7ee905f1553921

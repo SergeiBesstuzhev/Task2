@@ -1,3 +1,5 @@
-C:/Users/serge/CLionProjects/Task2/cmake-build-debug/CMakeFiles/Task2.dir
 C:/Users/serge/CLionProjects/Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/serge/CLionProjects/Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/serge/CLionProjects/Task2/cmake-build-debug/src/CMakeFiles/Operation.dir
+C:/Users/serge/CLionProjects/Task2/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/serge/CLionProjects/Task2/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

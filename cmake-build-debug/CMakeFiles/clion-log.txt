@@ -1,7 +1,16 @@
 "C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.2/bin/ninja/win/ninja.exe" -G Ninja C:\Users\serge\CLionProjects\Task2
-CMake Error at CMakeLists.txt:8 (add_subdirectory):
-  add_subdirectory given source "src" which is not an existing directory.
+-- Configuring done
+CMake Error at src/CMakeLists.txt:3 (add_executable):
+  Cannot find source file:
+
+    ram.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
 
 
--- Configuring incomplete, errors occurred!
-See also "C:/Users/serge/CLionProjects/Task2/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+CMake Error at src/CMakeLists.txt:3 (add_executable):
+  No SOURCES given to target: Operation
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
