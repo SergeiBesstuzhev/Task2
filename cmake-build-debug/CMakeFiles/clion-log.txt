@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.2/bin/ninja/win/ninja.exe" -G Ninja C:\Users\serge\CLionProjects\Task2
+CMake Error at CMakeLists.txt:8 (add_subdirectory):
+  add_subdirectory given source "src" which is not an existing directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/serge/CLionProjects/Task2/cmake-build-debug/CMakeFiles/CMakeOutput.log".
